@@ -1,3 +1,28 @@
 /* You can add global styles to this file, and also import other style files */
 
 
+.strike{
+    text-decoration: line-through;
+}
+
+h2{
+    padding: 50px 0px;
+    text-align: center;
+}
+
+body{
+    background-color:white;
+background-image: linear-gradient(90deg, rgba(200,0,0,.1) 50%, transparent 50%),
+linear-gradient(rgba(200,0,0,.1) 50%, transparent 50%);
+background-size:50px 50px;
+}
+.app-grocery{
+    background-color: #ffffff;
+    margin-top: 50px;
+    border-radius: 12px;
+    min-height: 500px;
+}
+
+.deleteEdit{
+    float:right;
+}
